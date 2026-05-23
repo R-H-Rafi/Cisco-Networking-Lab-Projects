@@ -141,11 +141,14 @@ Through these projects, I gained practical experience in:
 Aspiring Network Engineer | Cloud Enthusiast | Cybersecurity Learner
 
 ### Interests
-- Networking
-- Routing & Switching
-- Cloud Computing
+
 - Cybersecurity
-- Network Automation
+- Ethical Hacking
+- Penetration Testing
+- Network Security
+- Routing & Switching
+- Cloud Security
+- Security Operations
 
 ---
 
